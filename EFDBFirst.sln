@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBFirst.Data", "EFDBFirst.Data\EFDBFirst.Data.csproj", "{EAF1D3E1-D210-485D-BFA7-AAA4E93702DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBFirstConsoleApp", "EFDBFirstConsoleApp\EFDBFirstConsoleApp.csproj", "{D2FA30C3-834F-424F-9FD9-E41451F7F5F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF1D3E1-D210-485D-BFA7-AAA4E93702DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF1D3E1-D210-485D-BFA7-AAA4E93702DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF1D3E1-D210-485D-BFA7-AAA4E93702DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF1D3E1-D210-485D-BFA7-AAA4E93702DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FA30C3-834F-424F-9FD9-E41451F7F5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FA30C3-834F-424F-9FD9-E41451F7F5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FA30C3-834F-424F-9FD9-E41451F7F5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FA30C3-834F-424F-9FD9-E41451F7F5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF4642F-3C02-4CD9-8851-C7BC28983484}
+	EndGlobalSection
+EndGlobal

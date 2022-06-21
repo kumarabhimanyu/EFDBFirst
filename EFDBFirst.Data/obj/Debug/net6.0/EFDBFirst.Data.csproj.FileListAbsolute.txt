@@ -1,0 +1,14 @@
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\bin\Debug\net6.0\EFDBFirst.Data.deps.json
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\bin\Debug\net6.0\EFDBFirst.Data.runtimeconfig.json
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\bin\Debug\net6.0\EFDBFirst.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\bin\Debug\net6.0\EFDBFirst.Data.pdb
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.csproj.AssemblyReference.cache
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.AssemblyInfoInputs.cache
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.AssemblyInfo.cs
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.csproj.CoreCompileInputs.cache
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\refint\EFDBFirst.Data.dll
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.pdb
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\EFDBFirst.Data.genruntimeconfig.cache
+C:\Users\abhimanyu.kumar\source\repos\EFDBFirst\EFDBFirst.Data\obj\Debug\net6.0\ref\EFDBFirst.Data.dll
